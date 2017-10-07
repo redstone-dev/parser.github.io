@@ -6,4 +6,4 @@ This is a parser. install it by using:
 - `parsername : null              // No name.`             
 - `}`
 
-in a JSON file.
+in a JS file.
